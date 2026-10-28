@@ -1,0 +1,6 @@
+{
+  "name": "WeatherSense",
+  "description": "Smart real-time weather detection, atmospheric telemetry scanner, severe weather & temperature alert notifications system, and cloud vision detector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
